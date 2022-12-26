@@ -13,11 +13,11 @@ const navbar = () => {
                 </a>
             </Logo>
             <Menu>
-                <p>Lexus ES300h</p>
-                <p>Lexus LS500h</p>
-                <p>Lexus LC500h</p>
-                <p>Lexus RX450hL</p>
-                <p>Lexus LX500d</p>
+                <p>ES300h</p>
+                <p>LS500h</p>
+                <p>LC500h</p>
+                <p>RX450hL</p>
+                <p>LX500d(upcoming)</p>
             </Menu>
         </Container>
     )

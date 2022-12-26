@@ -17,7 +17,7 @@ function App() {
       <Section name="ES300h" image={ES300h} color="#000" description="Self Charging Hybrid Sedan"/>
       <Section name="LS500h" image={LS500h} color="#fff" description="Self Charging Hybrid Luxury Sedan"/>
       <Section name="LC500h" image={LC500h} color="#fff" description="Self Charging Hybrid Luxury Coupé"/>
-      <Section name="RX500h" image={RX450h} color="#fff" description="Mid-Size Luxury Crossover"/>
+      <Section name="RX450hL" image={RX450h} color="#fff" description="Mid-Size Luxury Crossover"/>
       <ComingSoon name="LX600" image={LX600} color="#fff" description="Full-Size Luxury SUV"/>
     </div>
   );

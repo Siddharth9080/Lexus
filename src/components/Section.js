@@ -11,10 +11,10 @@ const section = (props) => {
             <Buttons>
                 <ButtonGrp>
                     <LeftButton>
-                        Buy Now
+                        Price Starting At ₹{props.price}
                     </LeftButton>
                     <CentreButton>
-                        Get  Brochure
+                        Buy Now
                     </CentreButton>
                     <RightButton>
                         Book Test Drive

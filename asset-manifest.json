@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Lexus/static/css/main.e6c13ad2.css",
-    "main.js": "/Lexus/static/js/main.08751e83.js",
+    "main.js": "/Lexus/static/js/main.b364f256.js",
     "static/media/LS500h.jpg": "/Lexus/static/media/LS500h.c0f3270a9e65330774f8.jpg",
     "static/media/ES300h.jpg": "/Lexus/static/media/ES300h.03227cf25ce700886392.jpg",
     "static/media/RX450h.jpg": "/Lexus/static/media/RX450h.e315563542da36772636.jpg",
@@ -9,10 +9,10 @@
     "static/media/LX600.jpg": "/Lexus/static/media/LX600.fb9d7a4d3f286e744fa1.jpg",
     "index.html": "/Lexus/index.html",
     "main.e6c13ad2.css.map": "/Lexus/static/css/main.e6c13ad2.css.map",
-    "main.08751e83.js.map": "/Lexus/static/js/main.08751e83.js.map"
+    "main.b364f256.js.map": "/Lexus/static/js/main.b364f256.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.08751e83.js"
+    "static/js/main.b364f256.js"
   ]
 }

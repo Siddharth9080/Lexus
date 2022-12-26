@@ -17,7 +17,8 @@ const navbar = () => {
                 <p>LS500h</p>
                 <p>LC500h</p>
                 <p>RX450hL</p>
-                <p>LX500d(upcoming)</p>
+                <p>NX350h</p>
+                <p>LX500d</p>
             </Menu>
         </Container>
     )
